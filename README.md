@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://effulgent-cuchufli-3d2560.netlify.app/](https://effulgent-cuchufli-3d2560.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mdshakirhussain.netlify.app/]((https://mdshakirhussain.netlify.app/))
 
 - 📝 I regularly write articles on [https://medium.com/@mdshakirhussain298](https://medium.com/@mdshakirhussain298)
 
