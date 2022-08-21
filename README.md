@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdshakirhussain298@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1_O5-Rb9EZElQN7EMh7R3XcRHO7ScA1Ae/edit](https://drive.google.com/file/d/1glFy1SNw-kW9rbXvi7J36f6VtMHqOoRQ/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1_O5-Rb9EZElQN7EMh7R3XcRHO7ScA1Ae/edit](https://drive.google.com/file/d/1glFy1SNw-kW9rbXvi7J36f6VtMHqOoRQ/view?usp=sharing)
 
 - ⚡ Fun fact **I'm travel vlogger**
 
