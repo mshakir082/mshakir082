@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Shakir Hussain</h1>
-<h3 align="center">Full Stack Developer with expertise in MERN stack. Self-starter and curious, with a delicate interest in building user-friendly websites and scalable applications. Anticipating honing skills in a challenging work environment.</h3>
+<h3 align="center">Frontend Developer with expertise in React.js. Self-starter and curious, with a delicate interest in building user-friendly websites and scalable applications. Anticipating honing skills in a challenging work environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshakir082&label=Profile%20views&color=0e75b6&style=flat" alt="mshakir082" /> </p>
 
