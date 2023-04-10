@@ -28,6 +28,10 @@
 <a href="https://www.youtube.com/@nomadindian3044" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nomad indian" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdshakirhussain2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md shakir hussain" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@md.shakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mdshakirhussain2" height="30" width="40" /></a>
+ <a href="https://leetcode.com/mdshakirhussain298/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" height="30" width="30">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
